@@ -1,2 +1,3 @@
-# Atlas-git
+# Atlas_git_training
+
 Work in Progress
